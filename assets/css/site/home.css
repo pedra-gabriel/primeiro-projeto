@@ -1,0 +1,18 @@
+.home#content-home .banner {
+	height: 500px;
+	width: 100%;
+	background-image: url(../../img/banner.jpg);
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	color: #fff;
+	text-shadow: 1px 1px 1px black;
+	padding-top: 150px;
+	font-family: verdana;
+	background-attachment: fixed;
+	z-index: 1;
+}
+
+.home#content-home .about {
+	background-color: lightgray;
+}

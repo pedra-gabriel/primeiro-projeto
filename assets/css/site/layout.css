@@ -1,0 +1,99 @@
+body {
+	background-color: lightgray;
+}
+
+header {
+	background-color: #333;
+	min-height: 53.64px;
+
+}
+
+header a {
+	text-align: center;
+	color: lightgray;
+	padding: 15px;
+	transition: 0.5s;
+}
+
+header a:hover {
+	text-decoration: none;
+}
+
+header .links {
+	margin: 0;
+}
+
+header .links a:hover {
+	text-decoration: none;
+	background-color: lightgray;
+	color: #333;
+}
+
+footer {
+	background: #333;
+}
+
+footer a {
+	text-decoration: none;
+}
+
+footer .fab {
+	color: #fff;
+	margin-bottom: 20px;
+	font-size: 20px;
+	transition: 0.1s;
+}
+
+footer .fab:hover {
+	color: grey;
+}
+
+footer h3 {
+	font-family: verdana;
+	font-size: 18px;
+}
+
+footer a {
+	color: #fff;
+	transition: 0.1s;
+	font-size: 13px;
+}
+
+footer a:hover {
+	text-decoration: none;
+	color: grey;
+}
+
+
+
+/* responsivo */
+
+@media (max-width: 767px) {
+	header .hamburger {
+		display: block!important;
+	}
+
+	header .hamburger img {
+		width: 50px;
+	}
+
+	header .links {
+		display: none;
+		padding-top: 2.5rem;
+	}
+
+	header .links a {
+		text-align: right;
+		width: 100%;
+		float: none!important;
+	}
+
+	footer .dir {
+		float: right;
+	}
+
+	footer .esq {
+		float: left;
+	}
+
+} 
