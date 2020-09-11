@@ -8,7 +8,7 @@
 *
 **/
 
-define('LOCAL_URL', '/gabriel-pedra/projeto-code');
+define('LOCAL_URL', '/gabriel-pedra/projeto-code/primeiro-projeto');
 
 // if($env == "dev"){
 // 	define('LOCAL_URL', '/gabriel-pedra/projeto-code');

@@ -20,6 +20,7 @@
 		<link rel="stylesheet" type="text/css" href="<?php echo $url; ?>/assets/libs/fontawesome/css/solid.min.css">
 		<link rel="stylesheet" type="text/css" href="<?php echo $url; ?>/assets/css/site/layout.css">
 		<link rel="stylesheet" type="text/css" href="<?php echo $url; ?>/assets/css/site/home.css">
+		<link rel="stylesheet" type="text/css" href="<?php echo $url; ?>/assets/css/site/contact.css">
 		
 	</head>
 	<body>
@@ -46,7 +47,9 @@
 		<script type="text/javascript" src="<?php echo $url; ?>/assets/libs/jquery/jquery-3.4.1.min.js"></script>
 		<script type="text/javascript" src="<?php echo $url; ?>/assets/libs/popper/popper.min.js"></script>
 		<script type="text/javascript" src="<?php echo $url; ?>/assets/libs/bootstrap/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="<?php echo $url; ?>/assets/libs/sweetalert2/dist/sweetalert2.all.min.js"></script>
 		<script type="text/javascript" src="<?php echo $url; ?>/assets/js/site/layout.js"></script>
+		<script type="text/javascript" src="<?php echo $url; ?>/assets/js/site/contact.js"></script>
 
 
 	</body>
