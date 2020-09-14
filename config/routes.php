@@ -15,8 +15,12 @@ $commonRoutes = array(
 );
 
 // rotas POST
-$commonPost = array();
+$commonPost = array(
+	'submitContact'		=> 'ContactController/submitContact',
+);
 
 $commonRoutes = array_merge($commonRoutes, $commonPost);
 
 return $commonRoutes;
+
+?>

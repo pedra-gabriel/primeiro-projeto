@@ -3,7 +3,7 @@
 
 	<!-- logo -->
 	<div class="float-left pt-3">
-		<a href="#" class="text-light">Logo</a>
+		<i class="fas fa-hiking h1"></i>
 	</div>
 
 	<!-- hamburger -->

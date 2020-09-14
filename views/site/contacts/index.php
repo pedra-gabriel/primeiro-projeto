@@ -9,7 +9,7 @@
 				<!-- formuario -->
 				<div class="col-md-6 col-sm-12 col-12">
 					
-					<form name="formContacts">
+					<form name="formContact">
 
 						<div class="form-group">
 							<label>Nome</label><br>

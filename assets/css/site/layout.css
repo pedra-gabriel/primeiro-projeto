@@ -3,9 +3,13 @@ body {
 }
 
 header {
-	background-color: #333;
+	background-image: linear-gradient(#333, #444);
 	min-height: 53.64px;
 
+}
+
+header .fas {
+	color: lightgray;
 }
 
 header a {
@@ -30,7 +34,7 @@ header .links a:hover {
 }
 
 footer {
-	background: #333;
+	background-image: linear-gradient(#444, #111);
 }
 
 footer a {
