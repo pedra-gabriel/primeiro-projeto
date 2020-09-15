@@ -3,7 +3,7 @@
 
 	<!-- logo -->
 	<div class="float-left pt-3">
-		<i class="fas fa-hiking h1"></i>
+		<i class="fas fa-hiking h2"></i>
 	</div>
 
 	<!-- hamburger -->
