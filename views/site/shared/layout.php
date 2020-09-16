@@ -21,6 +21,7 @@
 		<link rel="stylesheet" type="text/css" href="<?php echo $url; ?>/assets/css/site/layout.css">
 		<link rel="stylesheet" type="text/css" href="<?php echo $url; ?>/assets/css/site/home.css">
 		<link rel="stylesheet" type="text/css" href="<?php echo $url; ?>/assets/css/site/contact.css">
+		<link rel="stylesheet" type="text/css" href="<?php echo $url; ?>/assets/css/site/about.css">
 		
 	</head>
 	<body>

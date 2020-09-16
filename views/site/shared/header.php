@@ -14,7 +14,7 @@
 	<!-- links -->
 	<div class="links">
 		<a href="<?php echo $url; ?>/" class="d-block float-right">Home</a>
-		<a href="#" class="d-block float-right">Quem Somos</a>
+		<a href="<?php echo $url; ?>/about" class="d-block float-right">Quem Somos</a>
 		<a href="<?php echo $url; ?>/contato" class="d-block float-right">Contato</a>
 	</div>
 

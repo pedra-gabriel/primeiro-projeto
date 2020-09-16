@@ -1,0 +1,17 @@
+/*.about#content-about {
+	background-image: url(../../img/camp.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}*/
+
+.about#content-about i {
+	font-size: 130px;
+}
+
+.about#content-about .row {
+	padding: 90px 50px;
+}
+
+.about#content-about p {
+	font-family: "gothic l";
+}
