@@ -23,11 +23,11 @@ class PDOCrud
 	public function insert($table, $columns, $values, array $pdoValues = array())
 	{
 
-		$insert = 'INSERT INTO ' . $table . ' (' . $columns . ') VALUES(' . $values . ')';
+		$insert = 'INSERT INTO ' . $table . ' (' . $columns . ') VALUES (' . $values . ')';
 		$stmt   = $this->pdo->prepare($insert);
 		$stmt->execute($pdoValues);
 		
-		return $this->pdo->lastInsertId();
+		
 
 	}
 

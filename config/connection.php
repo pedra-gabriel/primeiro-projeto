@@ -9,7 +9,7 @@
 **/
 
 $config = array(
-	'dsn'      => 'mysql:dbname=bandodedados;host=127.0.0.1',
+	'dsn'      => 'mysql:dbname=trekking;host=127.0.0.1',
 	'username' => 'root',
 	'password' => null
 );

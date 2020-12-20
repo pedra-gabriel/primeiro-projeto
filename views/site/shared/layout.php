@@ -22,6 +22,7 @@
 		<link rel="stylesheet" type="text/css" href="<?php echo $url; ?>/assets/css/site/home.css">
 		<link rel="stylesheet" type="text/css" href="<?php echo $url; ?>/assets/css/site/contact.css">
 		<link rel="stylesheet" type="text/css" href="<?php echo $url; ?>/assets/css/site/about.css">
+		<link rel="stylesheet" type="text/css" href="<?php echo $url; ?>/assets/css/site/login.css">
 		
 	</head>
 	<body>
@@ -37,7 +38,8 @@
 		</main>
 
 		<footer>
-			<?php require 'footer.php'; ?>
+			<!-- <?php // require 'footer.php'; ?> -->
+			<!-- EU ACHO QUE É MELHOR DEIXAR SEM FOOTER. A IDÉIA É FAZER O USUÁRIO SE SENTIR EM UMA REDE SOCIAL, E ELAS NÃO TEM FOOTER -->
 		</footer>
 
 		<script type="text/javascript">
@@ -51,6 +53,7 @@
 		<script type="text/javascript" src="<?php echo $url; ?>/assets/libs/sweetalert2/dist/sweetalert2.all.min.js"></script>
 		<script type="text/javascript" src="<?php echo $url; ?>/assets/js/site/layout.js"></script>
 		<script type="text/javascript" src="<?php echo $url; ?>/assets/js/site/contact.js"></script>
+		<script type="text/javascript" src="<?php echo $url; ?>/assets/js/site/register.js"></script>
 
 
 	</body>
